@@ -3,5 +3,5 @@ streamlit==0.61.0
 pandas==1.2.4
 numpy==1.21.1
 pickle-mixin==1.0.2
-python-dateutil==2.7.0
+python-dateutil>=2.7.3
 datetime==4.3
