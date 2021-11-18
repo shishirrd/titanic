@@ -30,7 +30,7 @@ le_pclass = data['le_pclass']
 
 def show_predict_page():
     st.title("Did this person survive the sinking of the Titanic?")
-    
+    st.write("Based on the famous competition dataset from Kaggle, the ask is simple: use ML to predict which passengers survived the sinking of the RMS Titanic in 1921.")
     st.write("""### We need some information to predict this!""")
 
 show_predict_page()
