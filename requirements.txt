@@ -5,3 +5,5 @@ numpy==1.21.1
 pickle-mixin==1.0.2
 python-dateutil>=2.7.3
 datetime==4.3
+statsmodels==0.12.2
+scikit-learn==0.24.2
